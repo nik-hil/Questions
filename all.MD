@@ -74,7 +74,7 @@ from recursion.
 1. Find avg of last five minutes in a stream of integers
 1. Permutation of string
 1. word ladder
-1. island in matrix of 0 & 1
+1. [Max area of 1's island in matrix of 0 & 1](https://www.youtube.com/watch?v=W8VuDt0eb5c)
 1. Given matrix of 0 & 1 and 0 is before 1. Find the count of 0 or 1 in O(n). 
 Iterate through first row. Find 1's location. Go to next row at same index. Find 
 1's location and so on.
@@ -86,7 +86,7 @@ Iterate through first row. Find 1's location. Go to next row at same index. Find
 1. inorder/ preorder/ post order traversal with & without recursion
 1. Distance between two string 
 1. Sum of two number in BST
-1. 
+1. Spiral view of a tree
 
 # System Design (educative.io & youtube)
 1. Design hotel booking System
