@@ -85,6 +85,8 @@ Iterate through first row. Find 1's location. Go to next row at same index. Find
 1. Find a + b + c = 0/d in an array
 1. inorder/ preorder/ post order traversal with & without recursion
 1. Distance between two string 
+1. Sum of two number in BST
+1. 
 
 # System Design (educative.io & youtube)
 1. Design hotel booking System
