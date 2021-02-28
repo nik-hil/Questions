@@ -20,7 +20,7 @@ def isSumTree(node):
     if  node.data == (ls + rt):
         return 2 * node.data
     else:
-        return None
+        return 0
     
 
 # Driver code
