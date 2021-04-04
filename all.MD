@@ -22,6 +22,7 @@
     b.solve(a)
 ```
 
+
 1. Composition vs inheritance? Which is preferred?  Composition
 1. Python inheritance order resolution? multiple inheritance
 1. Python difference between old class & new class
@@ -87,6 +88,7 @@ Iterate through first row. Find 1's location. Go to next row at same index. Find
 1. Distance between two string 
 1. Sum of two number in BST
 1. Spiral view of a tree
+1. [Write a function to find the longest common prefix string amongst an array of strings.](https://leetcode.com/problems/longest-common-prefix/)
 
 # System Design (educative.io & youtube)
 1. Design hotel booking System
