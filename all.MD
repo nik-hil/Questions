@@ -52,7 +52,7 @@
 
 # Algorithms & Problem solving (interviewbit.com & GeeksforGeeks.org)
 1. Knapsack
-1. tapping rain Water / Horizontal stripes on the wall
+1. [tapping rain Water / Horizontal stripes on the wall](https://github.com/nik-hil/Questions/blob/master/problems/tapping_rain_water.py)
 1. coin exchange problem
 1. sort the array with 0, 1 & 2
 1. sort the array with 0 and 1
