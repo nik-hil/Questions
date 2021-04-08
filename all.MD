@@ -57,7 +57,7 @@
 1. sort the array with 0, 1 & 2
 1. sort the array with 0 and 1
 1. find the best day to buy and sell stock given in an array
-1. In an sorted array find the frequency of duplicated elements
+1. [In an sorted array find the frequency of duplicated elements](https://github.com/nik-hil/Questions/blob/master/problems/Coin_denomination.py)
 1. Remove duplicate in an list
 1. Modify tree with sum of child's value
 1. Left view, right view, down view of the tree
