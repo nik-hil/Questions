@@ -81,7 +81,7 @@ Iterate through first row. Find 1's location. Go to next row at same index. Find
 1's location and so on.
 1. Calculate a^b using binary search
 1. Clone linked list with random pointers
-1. Given timing for booking of meeting room. Find min meeting rooms.
+1. [Given timing for booking of meeting room. Find min meeting rooms.](https://github.com/nik-hil/Questions/blob/master/problems/meeting_room_required.py)
 1. Sq root via binary search
 1. Find a + b + c = 0/d in an array
 1. inorder/ preorder/ post order traversal with & without recursion
